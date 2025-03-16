@@ -106,7 +106,7 @@
   }
 
   .review_form_checkbox_label {
-    display: block;
+    display: flex; /*block/flex */
     justify-content: inherit;
     align-items: inherit;
   }
